@@ -3,4 +3,4 @@ Bu eğitim [kodluyoruz.org](https://www.kodluyoruz.org/) tarafından düzenlenme
 
 
 ## Neden Bu Repo ? 
-Eğitim kapsamında verilen ilk ödevin deposudur.
+Eğitim kapsamında verilen 1.HTML ödevidir.
